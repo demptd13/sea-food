@@ -188,8 +188,7 @@ main {
 }
 @media (max-width: 420px) {
   .header__content-btn {
-    -webkit-transform: translateY(-10px);
-            transform: translateY(-10px);
+    margin-top: 50px;
     padding: 10px 38px;
     font-size: 20px;
     margin-left: 52px;
