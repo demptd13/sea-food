@@ -151,6 +151,12 @@ main {
     margin-top: -80px;
   }
 }
+@media (max-width: 420px) {
+  .header__content {
+    margin-top: -60px;
+    background-position: right 35% bottom 45%;
+  }
+}
 .header__content-btn {
   font-family: "Roboto Slab", serif;
   font-weight: 700;
